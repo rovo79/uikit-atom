@@ -20,7 +20,7 @@ Alternatively, you can clone this repository to the Packages directory of your A
 
 ```bash
 cd ~/.atom/packages/
-git clone git@github.com:uikit/uikit-atom.git
+git clone https://github.com/uikit/uikit-atom.git
 ```
 
 ### Usage
